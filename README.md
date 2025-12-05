@@ -9,17 +9,7 @@ Dataset link: [paste the link here](https://www.kaggle.com/datasets/yasserh/tita
 
 Tools & Technologies
 
-Python
-
-Pandas
-
-NumPy
-
-Matplotlib
-
-Seaborn
-
-Jupyter Notebook
+Python (Pandas, Matplotlib, Seaborn), Jupyter Notebook
 
 🔹 Project Steps
 
