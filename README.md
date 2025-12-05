@@ -6,3 +6,54 @@ The project focuses on performing Exploratory Data Analysis (EDA) on a public da
 Dataset name: Titanic-Dataset
 Source: Kaggle
 Dataset link: [paste the link here](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
+
+Tools & Technologies
+
+Python
+
+Pandas
+
+NumPy
+
+Matplotlib
+
+Seaborn
+
+Jupyter Notebook
+
+🔹 Project Steps
+✔ 1. Data Loading
+
+Loaded the dataset into pandas dataframe
+
+Displayed first few rows
+
+✔ 2. Data Cleaning
+
+Checked for missing values
+
+Handled missing values (fill/drop)
+
+Removed duplicates
+
+Adjusted incorrect data types
+
+✔ 3. Statistical Analysis
+
+.info()
+
+.describe()
+
+Summary statistics
+
+✔ 4. Exploratory Data Analysis (EDA)
+
+Distribution plots
+
+Countplots
+
+Correlation heatmap
+
+Boxplots
+
+Scatterplots
