@@ -43,8 +43,6 @@ Removed duplicates
 
 .describe()
 
-Summary statistics
-
 ✔ 4. Exploratory Data Analysis (EDA)
 
 Distribution plots
