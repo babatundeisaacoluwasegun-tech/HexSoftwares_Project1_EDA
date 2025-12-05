@@ -22,6 +22,7 @@ Seaborn
 Jupyter Notebook
 
 🔹 Project Steps
+
 ✔ 1. Data Loading
 
 Loaded the dataset into pandas dataframe
