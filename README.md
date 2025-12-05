@@ -37,8 +37,6 @@ Handled missing values (fill/drop)
 
 Removed duplicates
 
-Adjusted incorrect data types
-
 ✔ 3. Statistical Analysis
 
 .info()
