@@ -55,5 +55,3 @@ Countplots
 Correlation heatmap
 
 Boxplots
-
-Scatterplots
