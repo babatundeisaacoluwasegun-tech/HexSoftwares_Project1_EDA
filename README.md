@@ -8,17 +8,11 @@ Source: Kaggle
 Dataset link: [paste the link here](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
 
 Tools & Technologies
-
 Python
-
 Pandas
-
 NumPy
-
 Matplotlib
-
 Seaborn
-
 Jupyter Notebook
 
 🔹 Project Steps
