@@ -137,6 +137,9 @@ Many wealthy passengers boarded at Cherbourg, contributing to their higher survi
 
 Most 3rd-class passengers boarded at Southampton, where survival was lower.
 
+Final Insight:
+
+Survival on the Titanic was determined by a combination of social privilege (class, wealth), demographic characteristics (sex, age), and access to lifeboats.
 🔍 Insight:
 
 Embarked location reflects socio-economic grouping, indirectly affecting survival.
