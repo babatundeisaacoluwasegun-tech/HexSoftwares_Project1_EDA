@@ -33,7 +33,7 @@ Python (Pandas, Matplotlib, Seaborn), Jupyter Notebook
 
 ✔ .describe()
 
-✔ 4. Exploratory Data Analysis (EDA)
+  4. Exploratory Data Analysis (EDA)
 
 ✔ Distribution plots
 
