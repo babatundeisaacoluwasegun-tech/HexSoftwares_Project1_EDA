@@ -13,35 +13,35 @@ Python (Pandas, Matplotlib, Seaborn), Jupyter Notebook
 
 🔹 Project Steps
 
-✔ 1. Data Loading
+1. Data Loading
 
-Loaded the dataset into pandas dataframe
+✔ Loaded the dataset into pandas dataframe
 
-Displayed first few rows
+✔ Displayed first few rows
 
-✔ 2. Data Cleaning
+ 2. Data Cleaning
 
-Checked for missing values
+✔ Checked for missing values
 
-Handled missing values (fill/drop)
+✔ Handled missing values (fill/drop)
 
-Removed duplicates
+✔ Removed duplicates
 
-✔ 3. Statistical Analysis
+ 3. Statistical Analysis
 
-.info()
+✔ .info()
 
-.describe()
+✔ .describe()
 
 ✔ 4. Exploratory Data Analysis (EDA)
 
-Distribution plots
+✔ Distribution plots
 
-Countplots
+✔ Countplots
 
-Correlation heatmap
+✔ Correlation heatmap
 
-Boxplots
+✔ Boxplots.
 
 
 
